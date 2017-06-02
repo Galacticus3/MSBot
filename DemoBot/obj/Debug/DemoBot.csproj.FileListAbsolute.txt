@@ -1,0 +1,40 @@
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Bot Application.dll.config
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Bot Application.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Bot Application.pdb
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Autofac.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Chronic.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.Bot.Builder.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.Bot.Connector.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Newtonsoft.Json.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.Net.Http.Formatting.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.Web.Http.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.Web.Http.WebHost.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Autofac.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.Bot.Builder.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.Bot.Connector.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\Newtonsoft.Json.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.Net.Http.Formatting.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.Web.Http.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\System.Web.Http.WebHost.xml
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\obj\Debug\DemoBot.csprojResolveAssemblyReference.cache
+C:\Workspace\MSBots\DemoBot\DemoBot\obj\Debug\Bot Application.dll
+C:\Workspace\MSBots\DemoBot\DemoBot\obj\Debug\Bot Application.pdb
